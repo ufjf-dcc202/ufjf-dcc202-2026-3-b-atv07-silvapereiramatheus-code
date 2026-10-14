@@ -16,6 +16,12 @@ font-family: cinzel;
     border: 5px solid;
     border-radius: 5px;
     border-color: aliceblue;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+  
     
 }
 .pai {
